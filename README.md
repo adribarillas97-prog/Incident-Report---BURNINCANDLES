@@ -3,6 +3,14 @@
 
 
 > **Network Traffic Analysis | Wireshark | Kerberos | NBNS**
+>
+> ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Wireshark](https://img.shields.io/badge/Tool-Wireshark-1679A7?logo=wireshark)
+![Kerberos](https://img.shields.io/badge/Protocol-Kerberos-orange)
+![NBNS](https://img.shields.io/badge/Protocol-NBNS-orange)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)
+![Field](https://img.shields.io/badge/Field-Cybersecurity-red)
+![Type](https://img.shields.io/badge/Type-Incident%20Report-blueviolet)
 
 ---
 
