@@ -152,5 +152,5 @@ The analysis successfully identified the victim machine and confirmed malicious 
 ---
 
 > **File analyzed:** `2022-03-21-traffic-analysis-exercise.pcap`  
-> **Analyst:** *[Your Name]*  
-> **Date:** *[Date]*
+> **Analyst:** *Pedro Barillas*  
+> **Date:** *06/08/2026*
