@@ -59,6 +59,9 @@ The MAC address with the highest packet count (15,350 packets, 7 MB) matched the
 | **IP Address** | `10.0.19.14` |
 | **MAC Address** | `00:60:52:b7:33:0f` |
 
+<img width="971" height="521" alt="GetImage (17)" src="https://github.com/user-attachments/assets/ccbffd15-3cac-400a-a5c6-df8b25199526" />
+
+
 ---
 
 ### Step 3 — Identify the Hostname
