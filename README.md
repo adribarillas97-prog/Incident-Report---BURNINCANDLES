@@ -1,6 +1,6 @@
 # Incident-Report---BURNINCANDLES
 
-#  Incident Report — BURNINCANDLE
+
 
 > **Network Traffic Analysis | Wireshark | Kerberos | NBNS**
 
@@ -40,6 +40,9 @@ Suspicious network activity was detected in the LAN segment `10.0.19.0/24`. One 
 **Method:** `Statistics → Endpoints → IPv4`
 
 Compared all internal hosts in the `10.0.19.0/24` subnet. Host `10.0.19.14` stood out with **15,350 packets / 7 MB** of traffic — significantly higher than any other internal host.
+
+<img width="608" height="488" alt="GetImage (16)" src="https://github.com/user-attachments/assets/84fd6ff8-0d77-4c9d-928b-f17cb2352b37" />
+
 
 **Conclusion:** `10.0.19.14` is the infected Windows client.
 
