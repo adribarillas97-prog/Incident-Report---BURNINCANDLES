@@ -1,6 +1,6 @@
 # Incident-Report---BURNINCANDLES
 
-# 🔥 Incident Report — BURNINCANDLE
+#  Incident Report — BURNINCANDLE
 
 > **Network Traffic Analysis | Wireshark | Kerberos | NBNS**
 
