@@ -76,6 +76,9 @@ During analysis of NBNS traffic, the hostname was identified in the **Query Name
 | **IP Address** | `10.0.19.14` |
 | **MAC Address** | `00:60:52:b7:33:0f` |
 
+
+<img width="473" height="274" alt="GetImage (18)" src="https://github.com/user-attachments/assets/bb49d324-b96d-4b87-9475-dfef55586cde" />
+
 ---
 
 ### Step 4 — Identify the Windows User Account
